@@ -1,1 +1,1 @@
-BookBot is fun project i made
+BookBot is a fun project i made
